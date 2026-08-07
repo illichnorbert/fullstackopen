@@ -1,0 +1,15 @@
+◇ injected env (3) from .env // tip: ⌘ suppress logs { quiet: true }
+(node:15788) [MONGOOSE] Warning: mongoose: the `new` option for `findOneAndUpdate()` and `findOneAndReplace()` is deprecated. Use `returnDocument: 'after'` instead.
+(Use `node --trace-warnings ...` to show where the warning was created)
+▶ updating a blog
+  [32m✔ succeeds in updating likes [90m(937.7446ms)[39m[39m
+[32m✔ updating a blog [90m(940.3015ms)[39m[39m
+[32m✔ tests\list_helper.test.js [90m(279.7125ms)[39m[39m
+[34mℹ tests 2[39m
+[34mℹ suites 1[39m
+[34mℹ pass 2[39m
+[34mℹ fail 0[39m
+[34mℹ cancelled 0[39m
+[34mℹ skipped 0[39m
+[34mℹ todo 0[39m
+[34mℹ duration_ms 3648.5663[39m
